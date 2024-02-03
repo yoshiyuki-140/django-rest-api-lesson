@@ -24,3 +24,7 @@ Django RESTフレームワークはWeb APIを構築するための強力で柔�
 以下の要件を満たしていることを確認してください：
 
 - Pythonがインストールされていること
+
+## 参考にした記事
+
+- https://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8
